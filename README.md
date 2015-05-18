@@ -8,5 +8,5 @@ Solutions of basic challenges of hackthissite.org
     text file. so password field will remain blank.
 3.  solution of basic 3:
     Open the page source. search for eyword password. You find the one which near the html linking of basic challenge 3.
-    Here <form> tag performs an action on '/missions/basic/3/index.php' . input type is hidden and the value is        'password.php'. In the browser where challenge 3 is opened, in url bar add 'password.php' after '/missions/basic/3/'. You will get the password.
+    Here "<form>" tag performs an action on '/missions/basic/3/index.php' . input type is hidden and the value is        'password.php'. In the browser where challenge 3 is opened, in url bar add 'password.php' after '/missions/basic/3/'. You will get the password.
     
